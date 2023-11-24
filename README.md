@@ -45,6 +45,8 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
+Make sure that the @nuxtjs/axios module is installed in your Nuxt.js project. If it's not installed, you can install it using the following command:
+npm install @nuxtjs/axios
 
 3. Access the frontend at [http://localhost:3000](http://localhost:3000).
 
