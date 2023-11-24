@@ -1,16 +1,14 @@
 # TaskManagerBE
 Avow Task Manager
 
-How to run the application
+AVOW - How to run the Task Manager application
 
 This is a Task Manager web application built with Nuxt.js/Vue.js for the frontend and Spring Boot WebFlux for the backend.
 
 Major Functionalities include:
-
-• An overview page with a list of the current tasks
-• Able to create a new task
-• Able to mark a task as done/completed
-
+•	An overview page with a list of the current tasks
+•	Able to create a new task
+•	Able to mark a task as done/completed
 
 ## Prerequisites for the Task Manager application
 
@@ -26,24 +24,31 @@ Before running the application, ensure that you have the following installed:
 1. Navigate to the `frontend` directory:
 
     ```bash
-    cd frontend
+    cd frontendappfolder
     ```
 
-2. Install dependencies:
+2. Run the application and build setup:
 
-    ```bash
-    npm install
-    ```
+## Build Setup
 
-3. Run the application:
+```bash
+# install dependencies
+$ npm install
 
-    ```bash
-    npm run dev
-    ```
+# serve with hot reload at localhost:3000
+$ npm run dev
 
-4. Access the frontend at [http://localhost:3000](http://localhost:3000).
+# build for production and launch server
+$ npm run build
+$ npm run start
 
-### Backend
+# generate static project
+$ npm run generate
+```
+
+3. Access the frontend at [http://localhost:3000](http://localhost:3000).
+
+### Backend application information
 
 1. Navigate to the `backend` directory:
 
@@ -76,4 +81,4 @@ Before running the application, ensure that you have the following installed:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-![image](https://github.com/nithinj01/TaskManagerBE/assets/47292784/563ff93a-18aa-4ab2-ad98-33db4a87fd3b)
+![image](https://github.com/nithinj01/TaskmanagerFE/assets/47292784/0df68148-d4bd-46b9-adbb-82b47606bb54)
