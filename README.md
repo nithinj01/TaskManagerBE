@@ -6,10 +6,10 @@ How to run the application
 This is a Task Manager web application built with Nuxt.js/Vue.js for the frontend and Spring Boot WebFlux for the backend.
 
 Major Functionalities include:
-•	An overview page with a list of the current tasks
-•	Able to create a new task
-•	Able to mark a task as done/completed
 
+• An overview page with a list of the current tasks
+• Able to create a new task
+• Able to mark a task as done/completed
 
 
 ## Prerequisites for the Task Manager application
